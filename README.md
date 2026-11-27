@@ -20,13 +20,16 @@ A web tutor that reads webcam cues (gaze, blinks, yawns, head pose) and learning
 
 | Project | What it does | Built with |
 |---|---|---|
+| [Hospital Management System](https://github.com/afnanahmed424/hospital-management-system) | Hospital records with assigned doctors, regular/new patients and checkups — [live demo](https://afnanahmed424.github.io/hospital-management-system/) | SQL Server, HTML, CSS, JavaScript |
+| [Math Hangman Game](https://github.com/afnanahmed424/math-hangman-game) | GUI game: 10 BODMAS maths questions, hangman drawn in 5 parts | Java Swing |
+| [Library Management System](https://github.com/afnanahmed424/library-management-system) | Console library system with file storage | C++ |
+| [Personal Portfolio Website](https://github.com/afnanahmed424/personal-portfolio-website) | Personal portfolio site — [live demo](https://afnanahmed424.github.io/personal-portfolio-website/) | HTML, CSS, JavaScript |
 | Facial Expression Detection | Real-time emotion recognition from webcam video | OpenCV, DeepFace |
 | Intelligent Medical Diagnosis | AI-assisted diagnosis built on classification models | Python, ML |
 | CineRate | Movie discovery and rating web app | HTML, CSS, JavaScript |
 | Englify Academia | Learning platform website for an academy | HTML, CSS, JavaScript |
-| SmartFlow | Front-end project work | HTML, CSS |
 
-Project repositories are being published here as they are cleaned up.
+More semester project repositories are being published here as they are cleaned up.
 
 ## Right now
 
